@@ -88,4 +88,4 @@ Use the following credentials to access the **Admin Dashboard**:
 
 ## 📌 Note
 
-This project was built as a learning exercise in applying core DSA and OOP concepts in a real-world simulation context. Contributions, feedback, and suggestions are welcome!
+This is my 3rd semester project, built to practice and apply DSA and OOP concepts in a real-world simulation. Feel free to share feedback or suggestions!
